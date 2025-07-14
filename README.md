@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Hello! I'm Sondos</h1>
 
 <p align="center">
-👉🏻  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Currently+learning+Frontend...;%F0%9F%9A%80+Aiming+to+become+a+Fullstack+Developer;%F0%9F%92%96+Passionate+about+design+and+development!" alt="Typing SVG" /> 
+👇🏻  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Currently+learning+Frontend...;%F0%9F%9A%80+Aiming+to+become+a+Fullstack+Developer;%F0%9F%92%96+Passionate+about+design+and+development!" alt="Typing SVG" /> 
 </p>
 
 ---
